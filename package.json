@@ -1,0 +1,12 @@
+{
+  "name": "tutorial-3",
+  "version": "1.0.0",
+  "description": "https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf",
+  "main": "index.js",
+  "repository": "https://github.com/kaustv-datta/ethereum-sample-1",
+  "license": "MIT",
+  "dependencies": {
+    "ethereumjs-testrpc": "^3.0.5",
+    "web3": "^0.19.0"
+  }
+}
